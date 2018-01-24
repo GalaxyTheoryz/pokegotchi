@@ -84,21 +84,6 @@ while boom >0:
     print(boom)
     boom -=1
     
-while happiness >0:
- happiness -=1
- print (happiness)
-
-while hunger >0:
- hunger -=1
- print (hunger)
-
-while thirst >0:
- thirst -=1
- print (thirst)
-
-while health >0:
- health -=1
- print (health)
 
 print ("\:.             .:/")
 print ("        \``._________.''/ ")
@@ -149,27 +134,6 @@ if feed== "Y":
     print ("Feeding is in Progress")
 import time
 print ("Feeding your Pokegotchi!  あなたのPokegotchiを与える！")
-boom=20
-while boom >0:
-    time.sleep(1)
-    print(boom)
-    boom -=1
-    
-while happiness >0:
- happiness -=1
- print (happiness)
-
-while hunger >0:
- hunger -=1
- print (hunger)
-
-while thirst >0:
- thirst -=1
- print (thirst)
-
-while health >0:
- health -=1
- print (health)
 
 print ("\:.             .:/")
 print ("        \``._________.''/ ")
