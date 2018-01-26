@@ -1,4 +1,4 @@
-print ("POKEGOTCHI V1.2.3 ALPHA")
+print ("POKEGOTCHI V1.3")
 print ("********************************************************************************")
 
 import sys
